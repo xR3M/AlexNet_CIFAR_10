@@ -7,7 +7,7 @@ dataset using the AlexNet architecture.The CIFAR10 consists of 60000 32x32
 images.
 
 The AlexNet model, a convolutional neural network (CNN) architecture created by
-Alex Krizhevsy, is one of the leading architecture for any object-detection task.
+Alex Krizhevsky, is one of the leading architecture for any object-detection task.
 For my AlexNet model, the classifier consists of 5 convolutional layers, followed by 
 batch-normalization, rectified linear unit and max-pooling layers. This is followed
 by 2 dropout layers, 3 linearization layers, and 2 rectified linear unit layers.
